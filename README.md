@@ -28,6 +28,7 @@ The sales data is stored in CSV format. The following steps were followed in the
 6.    Average year of employees at the company
 
 ## **Dashboard**
+![Hr Analytics Dashboard](https://github.com/Aryan18107/HR-ANALYTICS-DASHBOARD-POWER-BI/assets/156915129/0338f5c8-e56a-4091-8bbd-671e4a987d9f)
 
 ## **Project Insight**
 1.    The attrition rate is higher in Life Sciences Education which is 38%.
