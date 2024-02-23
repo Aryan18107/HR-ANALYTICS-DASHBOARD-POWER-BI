@@ -20,12 +20,12 @@ The sales data is stored in CSV format. The following steps were followed in the
  The transformed data was loaded into Power BI for visualization and analysis.
 
 ## **Performance Indicators (KPIs)** – 
-1.Count of employees 
-2.Attrition figures
-3.Attrition rate 
-4.Average age of employees 
-5.Average salary of employees 
-6.Average year of employees at the company.
+1.    Count of employees
+2.    Attrition figures
+3.    Attrition rate
+4.    Average age of employees
+5.    Average salary of employees
+6.    Average year of employees at the company
 
 ## **Dashboard**
 
